@@ -1,1 +1,1 @@
-Hello, this is my second test of pushing files to GitHub with Git. I am now pushing more than one file.
+Hello, this is my third test of pushing files to GitHub with Git. I am now pushing three files.
