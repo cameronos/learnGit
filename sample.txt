@@ -1,1 +1,0 @@
-Hello, this is my third test of pushing files to GitHub with Git. I am now pushing three files.
